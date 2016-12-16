@@ -5,7 +5,7 @@ import javax.swing.WindowConstants;
 
 public class Main {
 
-	// public static void main(String[] args) {
+	 public static void main(String[] args) {
 		JFrame game = new JFrame();
 	    game.setTitle("2048 Game");
 	    game.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
