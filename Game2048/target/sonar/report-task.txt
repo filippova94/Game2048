@@ -1,0 +1,5 @@
+projectKey=ru.nsu.fit:Game2048
+serverUrl=http://172.16.19.78:8083/sonar
+dashboardUrl=http://172.16.19.78:8083/sonar/dashboard/index/ru.nsu.fit:Game2048
+ceTaskId=AVkLZOeabYKJDsac9_bI
+ceTaskUrl=http://172.16.19.78:8083/sonar/api/ce/task?id=AVkLZOeabYKJDsac9_bI
